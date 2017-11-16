@@ -1,0 +1,25 @@
+.mg-b-0 {
+    margin-bottom: 0px;
+}
+
+.suggestion-container {
+    padding: 0;
+    list-style-type: none;
+    border: 1px solid #eee;
+    border-radius: 5px;
+    max-height: 300px;
+    overflow-y: auto;
+}
+
+.suggestion-list {
+    padding: 3px 1em 3px 1em;
+    cursor: pointer;
+}
+
+.suggestion-list:hover {
+    background: #eee;
+}
+
+.suggestion-item {
+    padding: 5px;
+}
